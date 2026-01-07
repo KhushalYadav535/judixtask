@@ -2,6 +2,13 @@
 
 Complete setup guide for TaskFlow application with MongoDB backend.
 
+## Production URLs
+
+- **Frontend:** https://judixtask.vercel.app/
+- **Backend:** https://judixtask.onrender.com
+
+For production setup, see [PRODUCTION_SETUP.md](./PRODUCTION_SETUP.md)
+
 ## Prerequisites
 
 - Node.js (v16 or higher)
